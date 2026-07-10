@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2074073154377617425",
+    "created_at": "2026-07-06T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074130432300626300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966471073287012352",
+          "start": 0,
+          "username": "jinTINA455140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074130432300626300",
+    "in_reply_to_user_id": "1966471073287012352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074116145381269808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinTINA455140 萌萌捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074116095326523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi9mXzbkAAMpEm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074116095313899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi9mXwa8AAGn4F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2074073154377617425",
+        "created_at": "2026-07-06T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074130432300626300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966471073287012352",
+              "start": 0,
+              "username": "jinTINA455140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074130432300626300",
+        "in_reply_to_user_id": "1966471073287012352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074116145381269808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinTINA455140 萌萌捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074116095326523392",
+            "3_2074116095313899520"
+          ]
+        },
+        "author_id": "1966471073287012352",
+        "conversation_id": "2074073154377617425",
+        "created_at": "2026-07-06T12:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074116145381269808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31Jra7eMWD",
+              "end": 38,
+              "expanded_url": "https://x.com/jinTINA455140/status/2074116145381269808/photo/1",
+              "media_key": "3_2074116095326523392",
+              "start": 15,
+              "url": "https://t.co/31Jra7eMWD"
+            },
+            {
+              "display_url": "pic.x.com/31Jra7eMWD",
+              "end": 38,
+              "expanded_url": "https://x.com/jinTINA455140/status/2074116145381269808/photo/1",
+              "media_key": "3_2074116095313899520",
+              "start": 15,
+              "url": "https://t.co/31Jra7eMWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074116145381269808",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074073154377617425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 小橘子 https://t.co/31Jra7eMWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 1377,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1119
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T11:57:11.000Z",
+        "description": "我喜欢很安静的地方，还有朋友，我喜欢朋友。",
+        "id": "1966471073287012352",
+        "name": "小xc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061505514086019072/uM2Mx2Ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "jinTINA455140",
+        "verified": false
+      }
+    ]
+  }
+}

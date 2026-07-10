@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2064976799684276483",
+    "created_at": "2026-06-11T07:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064976799684276483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1753332405832908800",
+          "start": 3,
+          "username": "vaniperish_syuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064976799684276483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064307428553027907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vaniperish_syuu: 上手く生きれないからリスカやODに頼るしかない人が居ることをわかって欲しい。無理に規制ばっかかけると死人増えるぞこんな世の中。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2064976799684276483",
+        "created_at": "2026-06-11T07:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064976799684276483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1753332405832908800",
+              "start": 3,
+              "username": "vaniperish_syuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064976799684276483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064307428553027907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vaniperish_syuu: 上手く生きれないからリスカやODに頼るしかない人が居ることをわかって欲しい。無理に規制ばっかかけると死人増えるぞこんな世の中。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753332405832908800",
+        "conversation_id": "2064307428553027907",
+        "created_at": "2026-06-09T11:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064307428553027907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064307428553027907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2627,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "上手く生きれないからリスカやODに頼るしかない人が居ることをわかって欲しい。無理に規制ばっかかけると死人増えるぞこんな世の中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 101,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 895
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:21:09.000Z",
+        "description": "精神的満身創痍な毎日 避難垢@Kuima_syuu\n親友@k_uzu___",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kuima_syuu"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "k_uzu___"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vaniperish_syu…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/vaniperish_syuu?igsh=azExdTAwM2gyNXRp&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/9YvkjHypCk"
+              }
+            ]
+          }
+        },
+        "id": "1753332405832908800",
+        "name": "終希",
+        "pinned_tweet_id": "2018647145189097952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753747933290479616/2ccqRV7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 1096,
+          "like_count": 79040,
+          "listed_count": 18,
+          "media_count": 18,
+          "tweet_count": 7703
+        },
+        "url": "https://t.co/9YvkjHypCk",
+        "username": "vaniperish_syuu",
+        "verified": false
+      }
+    ]
+  }
+}

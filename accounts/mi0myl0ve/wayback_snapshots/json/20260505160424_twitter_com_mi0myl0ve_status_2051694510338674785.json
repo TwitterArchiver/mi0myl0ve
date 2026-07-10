@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2051694510338674785",
+    "created_at": "2026-05-05T16:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051694510338674785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051694510338674785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常有自己是突然降临到这具身体里的一种错觉。然后就会很恐惧于“接管这个陌生人的人生”。我知道这大概又是一种解离。我每次劝自己的方式都是：不要乱信灵肉分离论，我的灵魂我的人格就是我的细胞里的化学反应产生的。事实上，这种很唯物的说法确实有安慰到我自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2051694510338674785",
+        "created_at": "2026-05-05T16:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051694510338674785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051694510338674785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常有自己是突然降临到这具身体里的一种错觉。然后就会很恐惧于“接管这个陌生人的人生”。我知道这大概又是一种解离。我每次劝自己的方式都是：不要乱信灵肉分离论，我的灵魂我的人格就是我的细胞里的化学反应产生的。事实上，这种很唯物的说法确实有安慰到我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 85,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 389
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

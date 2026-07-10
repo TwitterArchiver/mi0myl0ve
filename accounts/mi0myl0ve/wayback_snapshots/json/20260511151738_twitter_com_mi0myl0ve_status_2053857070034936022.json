@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053857066864033792"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053857070034936022",
+    "created_at": "2026-05-11T15:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053857070034936022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/je396XaWFg",
+          "end": 158,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2053857070034936022/photo/1",
+          "media_key": "3_2053857066864033792",
+          "start": 135,
+          "url": "https://t.co/je396XaWFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053857070034936022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是mio这个名字对应的自设形象，种族是天使，原型长得像一身眼睛的黏糊糊史莱姆，现拟态人类中，口腔是黑色的有多排尖牙，头发末端是泡泡，斗篷底下是一片混沌。在世界观里经营着一家秘密疗养院，表面上是做临终关怀，实际上是收押看管犯了死罪但是精神有问题且会严重危害社会的人。 https://t.co/je396XaWFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053857066864033792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDEHtnbQAAbpFy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053857066864033792"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053857070034936022",
+        "created_at": "2026-05-11T15:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053857070034936022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/je396XaWFg",
+              "end": 158,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2053857070034936022/photo/1",
+              "media_key": "3_2053857066864033792",
+              "start": 135,
+              "url": "https://t.co/je396XaWFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053857070034936022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是mio这个名字对应的自设形象，种族是天使，原型长得像一身眼睛的黏糊糊史莱姆，现拟态人类中，口腔是黑色的有多排尖牙，头发末端是泡泡，斗篷底下是一片混沌。在世界观里经营着一家秘密疗养院，表面上是做临终关怀，实际上是收押看管犯了死罪但是精神有问题且会严重危害社会的人。 https://t.co/je396XaWFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 546
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2050769447779193130",
+    "created_at": "2026-05-03T02:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050769447779193130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050769447779193130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天在外面尤其特别热闹的环境其实还是避免不了情绪解离，我一直想的是我要怎样才能演好一个正常人在此处该有的反应。不过我也乐在其中就是了，就是蛮累的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2050769447779193130",
+        "created_at": "2026-05-03T02:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050769447779193130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050769447779193130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天在外面尤其特别热闹的环境其实还是避免不了情绪解离，我一直想的是我要怎样才能演好一个正常人在此处该有的反应。不过我也乐在其中就是了，就是蛮累的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 344
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

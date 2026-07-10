@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2070135690562863314",
+    "created_at": "2026-06-26T05:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070374194421121077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054226432860327936",
+          "start": 0,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070374194421121077",
+    "in_reply_to_user_id": "2054226432860327936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070135690562863314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aic_BKY 当代打或者陪玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2070135690562863314",
+        "created_at": "2026-06-26T05:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070374194421121077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070374194421121077",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070135690562863314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 当代打或者陪玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054226432860327936",
+        "conversation_id": "2070135690562863314",
+        "created_at": "2026-06-25T13:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070135690562863314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070135690562863314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没满16有办法挣钱吗（不卖屁股。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/hEgElsGGID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/hEgElsGGID"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 112,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/来这里是为了交朋友/喜欢我请私信  我喜欢聊天/重要的人@KuaiWo34671",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "2054226432860327936",
+        "location": "我喜欢你",
+        "name": "AIC",
+        "pinned_tweet_id": "2064379500310434056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 94,
+          "like_count": 4058,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": false
+      }
+    ]
+  }
+}

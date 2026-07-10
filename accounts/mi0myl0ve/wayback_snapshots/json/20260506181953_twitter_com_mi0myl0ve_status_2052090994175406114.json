@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2052090994175406114",
+    "created_at": "2026-05-06T18:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052090994175406114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052090994175406114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好讨厌叙述自己以前的事情在一般人眼里跟你妈卖惨似的，实际上我知道有的东西确实给自己造成很大的心理创伤，但是我就很倔地不承认我过得很惨很差。我觉得我活到现在获得的这个视角和思考方式是我的经历决定的独一无二的东西，痛苦是一回事，有幸存的能力又是另一回事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052090994175406114",
+        "created_at": "2026-05-06T18:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052090994175406114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052090994175406114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌叙述自己以前的事情在一般人眼里跟你妈卖惨似的，实际上我知道有的东西确实给自己造成很大的心理创伤，但是我就很倔地不承认我过得很惨很差。我觉得我活到现在获得的这个视角和思考方式是我的经历决定的独一无二的东西，痛苦是一回事，有幸存的能力又是另一回事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 428
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

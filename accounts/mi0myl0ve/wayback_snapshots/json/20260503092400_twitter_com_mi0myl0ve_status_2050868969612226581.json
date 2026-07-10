@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2050868969612226581",
+    "created_at": "2026-05-03T09:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050868969612226581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050868969612226581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当初删掉她是因为我在学校她半夜两点打电话给我和我吵白天没吵完的架，说她因为这件事睡不着所以让我也别想睡了。我下楼去接但是还是挨了一楼的学姐骂，于是我觉得特别生气觉得她真的很不可理喻，又影响我睡觉又害我挨骂我就很冲动地把她删掉了。结果后来她说这是伤她最深的行为，拒绝我道歉也不原谅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2050868969612226581",
+        "created_at": "2026-05-03T09:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050868969612226581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050868969612226581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当初删掉她是因为我在学校她半夜两点打电话给我和我吵白天没吵完的架，说她因为这件事睡不着所以让我也别想睡了。我下楼去接但是还是挨了一楼的学姐骂，于是我觉得特别生气觉得她真的很不可理喻，又影响我睡觉又害我挨骂我就很冲动地把她删掉了。结果后来她说这是伤她最深的行为，拒绝我道歉也不原谅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 354
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048700845248893332",
+    "created_at": "2026-04-27T09:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048700845248893332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048700845248893332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "博主是14岁开始抑郁焦虑去年进化成双相，大部分治病的药都吃过了。还有博主大学是学药学的，有些东西就没必要和我贴脸科普了哈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048700845248893332",
+        "created_at": "2026-04-27T09:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048700845248893332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048700845248893332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "博主是14岁开始抑郁焦虑去年进化成双相，大部分治病的药都吃过了。还有博主大学是学药学的，有些东西就没必要和我贴脸科普了哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 73,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 213
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

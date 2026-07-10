@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2069220288018162050",
+    "created_at": "2026-06-23T02:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069240624025686045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626412170337746944",
+          "start": 0,
+          "username": "moontidebemoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069240624025686045",
+    "in_reply_to_user_id": "1626412170337746944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069220288018162050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontidebemoth 是抗玉玉药喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2069220288018162050",
+        "created_at": "2026-06-23T02:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069240624025686045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626412170337746944",
+              "start": 0,
+              "username": "moontidebemoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069240624025686045",
+        "in_reply_to_user_id": "1626412170337746944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069220288018162050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontidebemoth 是抗玉玉药喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626412170337746944",
+        "conversation_id": "2069220288018162050",
+        "created_at": "2026-06-23T00:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069220288018162050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069220288018162050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸奶葡萄不是葡萄吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/hEgElsGGID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/hEgElsGGID"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 112,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女 kaiunRadio 恋人  @mizukiFuyugumom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "mizukiFuyugumom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaiun7773283479",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaiun7773283479",
+                "start": 0,
+                "url": "https://t.co/BLxgCbfkk3"
+              }
+            ]
+          }
+        },
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "2053063715273277741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 168,
+          "like_count": 18208,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/BLxgCbfkk3",
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

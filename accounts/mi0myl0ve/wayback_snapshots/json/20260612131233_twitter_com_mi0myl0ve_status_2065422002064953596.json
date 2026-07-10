@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2065422002064953596",
+    "created_at": "2026-06-12T13:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065422002064953596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599045921555517440",
+          "start": 3,
+          "username": "depression1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065422002064953596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065225344257536474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depression1203: 精神科メンクリに通院している人にしか分からないこととして「”調子はどうですか？”への返答が最も難しい」がある。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2065422002064953596",
+        "created_at": "2026-06-12T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065422002064953596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599045921555517440",
+              "start": 3,
+              "username": "depression1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065422002064953596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065225344257536474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depression1203: 精神科メンクリに通院している人にしか分からないこととして「”調子はどうですか？”への返答が最も難しい」がある。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599045921555517440",
+        "conversation_id": "2065225344257536474",
+        "created_at": "2026-06-12T00:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065225344257536474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065225344257536474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 29974,
+          "like_count": 496,
+          "quote_count": 16,
+          "reply_count": 48,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "精神科メンクリに通院している人にしか分からないこととして「”調子はどうですか？”への返答が最も難しい」がある。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 101,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 921
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:21:12.000Z",
+        "description": "生きた証で繋がる世界🧙‍♂️🪄✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/depression1203…",
+                "end": 23,
+                "expanded_url": "https://x.com/depression1203/status/1936221416514633786?s=46&t=iu-om0y2xJ0tS_FCPaTjYw",
+                "start": 0,
+                "url": "https://t.co/4brhrZFpEN"
+              }
+            ]
+          }
+        },
+        "id": "1599045921555517440",
+        "location": "繋がる空の下",
+        "name": "ミル🥺",
+        "pinned_tweet_id": "1667904866814164997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599208739445567488/p2bK5PG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31505,
+          "following_count": 15442,
+          "like_count": 332444,
+          "listed_count": 135,
+          "media_count": 4259,
+          "tweet_count": 139044
+        },
+        "url": "https://t.co/4brhrZFpEN",
+        "username": "depression1203",
+        "verified": true
+      }
+    ]
+  }
+}

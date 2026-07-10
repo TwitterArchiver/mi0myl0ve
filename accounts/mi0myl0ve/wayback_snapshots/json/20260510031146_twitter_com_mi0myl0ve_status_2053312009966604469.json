@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053311991700389888"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053312009966604469",
+    "created_at": "2026-05-10T03:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053312009966604469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPBnczVsTF",
+          "end": 31,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2053312009966604469/video/1",
+          "media_key": "7_2053311991700389888",
+          "start": 8,
+          "url": "https://t.co/kPBnczVsTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053312009966604469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😈无他诶无他诶 https://t.co/kPBnczVsTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61227,
+        "height": 1280,
+        "media_key": "7_2053311991700389888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053311991700389888/pu/img/GHrMYxKZ5zECJJ_1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053311991700389888/pu/vid/avc1/320x710/2nSFNzxx285yEKBh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053311991700389888/pu/vid/avc1/480x1066/1lBWfqqAL6G7CtUb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053311991700389888/pu/vid/avc1/576x1280/UUr5kbemVH9HdtWx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053311991700389888/pu/pl/r3bKYJ-t_ALBfgyX.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053311991700389888"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053312009966604469",
+        "created_at": "2026-05-10T03:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053312009966604469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPBnczVsTF",
+              "end": 31,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2053312009966604469/video/1",
+              "media_key": "7_2053311991700389888",
+              "start": 8,
+              "url": "https://t.co/kPBnczVsTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053312009966604469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😈无他诶无他诶 https://t.co/kPBnczVsTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 514
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

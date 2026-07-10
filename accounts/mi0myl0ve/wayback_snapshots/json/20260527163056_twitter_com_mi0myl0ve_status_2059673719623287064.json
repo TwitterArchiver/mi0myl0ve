@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2059641092799340633",
+    "created_at": "2026-05-27T16:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059673719623287064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045598149704818688",
+          "start": 0,
+          "username": "Dodioibs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059673719623287064",
+    "in_reply_to_user_id": "2045598149704818688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059641092799340633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodioibs 会难受得让你主观上觉得你快死了但是人还是很难杀的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2059641092799340633",
+        "created_at": "2026-05-27T16:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059673719623287064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059673719623287064",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059641092799340633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 会难受得让你主观上觉得你快死了但是人还是很难杀的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059641092799340633",
+        "created_at": "2026-05-27T14:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059641092799340633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059641092799340633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1521,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血清素综合症百分百致死吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ヨルアラシ",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 106,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 791
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 201,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 632
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

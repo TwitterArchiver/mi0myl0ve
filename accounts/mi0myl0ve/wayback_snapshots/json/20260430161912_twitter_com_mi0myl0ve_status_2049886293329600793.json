@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049886293329600793",
+    "created_at": "2026-04-30T16:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049886293329600793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049886293329600793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看得出来我厨女角色是喜欢那种主动性很强的类型无论阴角还是阳角，厨男角色像喜欢日本暗黑中二病男高。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049886293329600793",
+        "created_at": "2026-04-30T16:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049886293329600793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049886293329600793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得出来我厨女角色是喜欢那种主动性很强的类型无论阴角还是阳角，厨男角色像喜欢日本暗黑中二病男高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 83,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 295
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

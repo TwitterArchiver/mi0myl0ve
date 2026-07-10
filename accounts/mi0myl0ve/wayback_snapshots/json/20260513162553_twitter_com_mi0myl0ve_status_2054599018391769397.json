@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2054596041937469878",
+    "created_at": "2026-05-13T16:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054599018391769397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "304masora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054599018391769397",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054598520448197015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@304masora 不过在需要以情动人的时候就会感觉太干涩呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2054596041937469878",
+        "created_at": "2026-05-13T16:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054599018391769397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "304masora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054599018391769397",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054598520448197015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@304masora 不过在需要以情动人的时候就会感觉太干涩呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2054596041937469878",
+        "created_at": "2026-05-13T16:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054598520448197015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054598520448197015",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054596041937469878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 文字表达情感并不一定需要很多形容词，太多时候会有那种想说又不知怎么去说的情况，哪怕是流水账也是你对自己想法的表达"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 91,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 582
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "混乱中立",
+        "id": "2046388259333570560",
+        "location": "-666F",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 203
+        },
+        "username": "304masora",
+        "verified": false
+      }
+    ]
+  }
+}

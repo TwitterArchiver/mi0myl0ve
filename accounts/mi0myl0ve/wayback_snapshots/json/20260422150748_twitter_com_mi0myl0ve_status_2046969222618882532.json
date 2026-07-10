@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2046968016488079393",
+    "created_at": "2026-04-22T15:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046969222618882532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046969222618882532",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046968016488079393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "廉价的幸福起码还能让人撑着活在这个世界上，算是一点念想。莫不是有人本来就是想要清理这些“没有劳动力生产力”的精神病患了。我们成了生锈的齿轮，卡在他们进步的道路上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2046968016488079393",
+        "created_at": "2026-04-22T15:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046969222618882532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046969222618882532",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046968016488079393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "廉价的幸福起码还能让人撑着活在这个世界上，算是一点念想。莫不是有人本来就是想要清理这些“没有劳动力生产力”的精神病患了。我们成了生锈的齿轮，卡在他们进步的道路上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2046968016488079393",
+        "created_at": "2026-04-22T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046968016488079393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046968016488079393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果说上面是要禁止“用廉价的方式快速获得幸福感”，那也太独裁了……生活在这个很难得到正反馈的地方，就连一点点聊以慰藉的虚幻也不配拥有。其实人的出身就已经决定好了阶层，上面的人能轻松得到幸福，下面的人努力一辈子都不一定幸福一分钟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜里垢｜自言自语系",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2045897322819940416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 42,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

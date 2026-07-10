@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053071368502259762",
+    "created_at": "2026-05-09T11:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053071368502259762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mi0myl0ve/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/mi0myl0ve/status/2053071119557779624",
+          "start": 34,
+          "url": "https://t.co/eWb6bP6BkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053071368502259762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053071119557779624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和老师聊的时候我说我称这种状态为“陶醉”。是我一生都在追求的感觉。 https://t.co/eWb6bP6BkQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053071368502259762",
+        "created_at": "2026-05-09T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053071368502259762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi0myl0ve/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mi0myl0ve/status/2053071119557779624",
+              "start": 34,
+              "url": "https://t.co/eWb6bP6BkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053071368502259762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053071119557779624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和老师聊的时候我说我称这种状态为“陶醉”。是我一生都在追求的感觉。 https://t.co/eWb6bP6BkQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053071119557779624",
+        "created_at": "2026-05-09T11:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053071119557779624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053071119557779624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有强感知刺激才能把我好好压在一个人类的身体里表现得特别人类 。痛觉，物质，电影院，剧烈的风和水，音乐节级别的音响。偶尔地，会从画画和阅读中得到这种令人舒适的镣铐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 86,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 494
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

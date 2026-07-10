@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2058581209576521870",
+    "created_at": "2026-05-24T16:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058582282894725358"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058582282894725358",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058581209576521870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对这件事ptsd很严重，每次提起来都会情绪崩溃，像现在我也在爆哭中。只和咨询师说过一次，因为不用文字描述的话我根本就哭得没法正常说话。之后朋友给我占卜了猫现在的生活，她告诉我猫现在生了小孩，虽然能过但是还是觉得在我家里最舒服，把我当成妈妈，还在想念我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2058581209576521870",
+        "created_at": "2026-05-24T16:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058582282894725358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058582282894725358",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058581209576521870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对这件事ptsd很严重，每次提起来都会情绪崩溃，像现在我也在爆哭中。只和咨询师说过一次，因为不用文字描述的话我根本就哭得没法正常说话。之后朋友给我占卜了猫现在的生活，她告诉我猫现在生了小孩，虽然能过但是还是觉得在我家里最舒服，把我当成妈妈，还在想念我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2058581209576521870",
+        "created_at": "2026-05-24T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058581209576521870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058581209576521870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实养猫这件事我也有ptsd。以前我也养过猫，我妈朋友送我的，她弟是开宠物店的正好有只猫要送养，就送我了。养了五个月，整整五个月不多不少。有一天我妈趁我不在家的时候把猫送回去了，还告诉她朋友说是我不想要了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 104,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 752
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

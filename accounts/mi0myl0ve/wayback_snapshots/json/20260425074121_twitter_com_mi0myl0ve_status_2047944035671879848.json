@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2047944035671879848",
+    "created_at": "2026-04-25T07:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047944035671879848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047944035671879848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047769771912093910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 但凡和中国警察打过一次交道的人，都会恨死中国条子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2047944035671879848",
+        "created_at": "2026-04-25T07:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047944035671879848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047944035671879848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047769771912093910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 但凡和中国警察打过一次交道的人，都会恨死中国条子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2047769771912093910",
+        "created_at": "2026-04-24T20:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047769771912093910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047769771912093910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 47475,
+          "like_count": 1045,
+          "quote_count": 12,
+          "reply_count": 208,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "但凡和中国警察打过一次交道的人，都会恨死中国条子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 47,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 171
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 678,
+          "like_count": 4491,
+          "listed_count": 6,
+          "media_count": 502,
+          "tweet_count": 3612
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

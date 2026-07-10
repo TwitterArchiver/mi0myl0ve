@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2054204214487007342",
+    "created_at": "2026-05-13T07:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054459825174819025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610202751354687490",
+          "start": 0,
+          "username": "jidinhnchung1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054459825174819025",
+    "in_reply_to_user_id": "1610202751354687490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054204214487007342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidinhnchung1 🫂🫂🫂有办法逃吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2054204214487007342",
+        "created_at": "2026-05-13T07:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054459825174819025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610202751354687490",
+              "start": 0,
+              "username": "jidinhnchung1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459825174819025",
+        "in_reply_to_user_id": "1610202751354687490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054204214487007342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidinhnchung1 🫂🫂🫂有办法逃吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610202751354687490",
+        "conversation_id": "2054204214487007342",
+        "created_at": "2026-05-12T14:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054204214487007342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054204214487007342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸妈要把我送进全封闭管理学校了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 561
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T09:13:59.000Z",
+        "description": "躲在满是蓝色互联网屏幕监狱里的区。",
+        "id": "1610202751354687490",
+        "location": "盒子",
+        "name": "蓝窗生",
+        "pinned_tweet_id": "2041905128006152657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890439827969175553/-L5J2wIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 151,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1150
+        },
+        "username": "jidinhnchung1",
+        "verified": false
+      }
+    ]
+  }
+}

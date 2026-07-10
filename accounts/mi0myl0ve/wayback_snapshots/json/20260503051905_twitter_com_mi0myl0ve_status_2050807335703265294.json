@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2050805567376257344",
+    "created_at": "2026-05-03T05:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050807335703265294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "777masora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050807335703265294",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050806560759419184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777masora 无，之后可以尝试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2050805567376257344",
+        "created_at": "2026-05-03T05:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050807335703265294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "777masora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050807335703265294",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050806560759419184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777masora 无，之后可以尝试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2050805567376257344",
+        "created_at": "2026-05-03T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050806560759419184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050806560759419184",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050805567376257344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 先发表暴言：工业拉格和尿有什么区别吗（X\n说起来有试过精酿啤酒吗，比如修道院、世涛那类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 346
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "标签可以定义一个人吗",
+        "id": "2046388259333570560",
+        "location": "万达广场",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 63,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "777masora",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049398429298921472"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049398431924531344",
+    "created_at": "2026-04-29T08:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049398431924531344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uQBpjtBGqA",
+          "end": 30,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2049398431924531344/photo/1",
+          "media_key": "3_2049398429298921472",
+          "start": 7,
+          "url": "https://t.co/uQBpjtBGqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049398431924531344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鼠塑一下oc https://t.co/uQBpjtBGqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2049398429298921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDtA2WbEAA2UG-.jpg",
+        "width": 687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049398429298921472"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049398431924531344",
+        "created_at": "2026-04-29T08:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049398431924531344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQBpjtBGqA",
+              "end": 30,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2049398431924531344/photo/1",
+              "media_key": "3_2049398429298921472",
+              "start": 7,
+              "url": "https://t.co/uQBpjtBGqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049398431924531344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠塑一下oc https://t.co/uQBpjtBGqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 77,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 242
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2047762383154839602",
+    "created_at": "2026-04-24T19:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047762383154839602"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047762383154839602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯嗯看到wb有人说被拘被侮辱搜身时候扒光衣服周围👮🏻都在笑、在一个光照强烈的地方不能躺不能睡着全程被监控这种东西，还有小粉红质疑哎呀你🕙对人怎么可能这么不通人情，我想说大手没落到你头上就因为你还是没灵魂的乖奴才，听明白了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2047762383154839602",
+        "created_at": "2026-04-24T19:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047762383154839602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047762383154839602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯看到wb有人说被拘被侮辱搜身时候扒光衣服周围👮🏻都在笑、在一个光照强烈的地方不能躺不能睡着全程被监控这种东西，还有小粉红质疑哎呀你🕙对人怎么可能这么不通人情，我想说大手没落到你头上就因为你还是没灵魂的乖奴才，听明白了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 47,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 168
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

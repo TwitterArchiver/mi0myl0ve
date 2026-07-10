@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049449449379033196",
+    "created_at": "2026-04-29T14:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049493925346558005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "777masora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049493925346558005",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049450000913224020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777masora 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049449449379033196",
+        "created_at": "2026-04-29T14:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049493925346558005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "777masora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493925346558005",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049450000913224020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777masora 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2049449449379033196",
+        "created_at": "2026-04-29T11:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049450000913224020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049450000913224020",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049449449379033196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 学到了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 260
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "混乱中立",
+        "id": "2046388259333570560",
+        "location": "万达广场",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "777masora",
+        "verified": false
+      }
+    ]
+  }
+}

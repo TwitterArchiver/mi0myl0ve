@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048331788926517749",
+    "created_at": "2026-04-26T16:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048443959350067277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "love727luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048443959350067277",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048331788926517749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love727luv 🫂🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048331788926517749",
+        "created_at": "2026-04-26T16:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048443959350067277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "love727luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048443959350067277",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048331788926517749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love727luv 🫂🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2048331788926517749",
+        "created_at": "2026-04-26T09:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048331788926517749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048331788926517749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉没有事能让我开心起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 70,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 204
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 这个世界很美好:P",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2048275779616931994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047348345560350721/8tVcEm6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 449,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 329
+        },
+        "username": "love727luv",
+        "verified": false
+      }
+    ]
+  }
+}

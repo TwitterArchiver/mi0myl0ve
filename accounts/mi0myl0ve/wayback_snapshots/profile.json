@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@mi0myl0ve",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/mio0o0o0",
+        "end": 58,
+        "expanded_url": "http://ngl.link/mio0o0o0",
+        "start": 35,
+        "url": "https://t.co/hUMnuxyu8i"
+      }
+    ]
+  }
+}

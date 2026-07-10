@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050866921378304000"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2050866516015587625",
+    "created_at": "2026-05-03T09:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050866923538362662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWUOtyDKVE",
+          "end": 62,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2050866923538362662/photo/1",
+          "media_key": "3_2050866921378304000",
+          "start": 39,
+          "url": "https://t.co/MWUOtyDKVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050866923538362662",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050866516015587625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这段聊天记录我甚至可以完整发出来。她现在说我骂她没家教不会做人。而我的原话是 https://t.co/MWUOtyDKVE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2050866921378304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYkmVpaUAAHb7k.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050866513863999489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYkOnibgAEwaf1.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050866513113235456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYkOkvbwAABIgC.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050866921378304000"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2050866516015587625",
+        "created_at": "2026-05-03T09:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050866923538362662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWUOtyDKVE",
+              "end": 62,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2050866923538362662/photo/1",
+              "media_key": "3_2050866921378304000",
+              "start": 39,
+              "url": "https://t.co/MWUOtyDKVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050866923538362662",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050866516015587625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这段聊天记录我甚至可以完整发出来。她现在说我骂她没家教不会做人。而我的原话是 https://t.co/MWUOtyDKVE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050866513863999489",
+            "3_2050866513113235456"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2050866516015587625",
+        "created_at": "2026-05-03T09:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050866516015587625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVIQ5P3vjv",
+              "end": 158,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2050866516015587625/photo/1",
+              "media_key": "3_2050866513863999489",
+              "start": 135,
+              "url": "https://t.co/lVIQ5P3vjv"
+            },
+            {
+              "display_url": "pic.x.com/lVIQ5P3vjv",
+              "end": 158,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2050866516015587625/photo/1",
+              "media_key": "3_2050866513113235456",
+              "start": 135,
+              "url": "https://t.co/lVIQ5P3vjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050866516015587625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是你们不觉得去别人家里，别人的家长就坐在客厅，而客人只是看了人一眼就径直走进房间，很没礼貌吗？这种事情不仅仅对我妈发生，对我爸也发生。而我当时没有当面和她说任何！是在她走了之后，我妈跟我说你朋友没礼貌不和大人打招呼。我就去提醒她，结果她质问我说“你觉得我不懂礼貌？” https://t.co/lVIQ5P3vjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 352
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

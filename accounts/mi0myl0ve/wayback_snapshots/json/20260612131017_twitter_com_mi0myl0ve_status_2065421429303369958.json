@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2065421429303369958",
+    "created_at": "2026-06-12T13:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065421429303369958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547964430386081792",
+          "start": 3,
+          "username": "aoisora_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065421429303369958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065049766665551886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoisora_zzz: うつ病になるとこうなる\n\n・1週間同じ寝巻き\n・寝るかスマホと睨めっこ\n・トイレも面倒だから水分摂らない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2065421429303369958",
+        "created_at": "2026-06-12T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065421429303369958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547964430386081792",
+              "start": 3,
+              "username": "aoisora_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065421429303369958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049766665551886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoisora_zzz: うつ病になるとこうなる\n\n・1週間同じ寝巻き\n・寝るかスマホと睨めっこ\n・トイレも面倒だから水分摂らない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547964430386081792",
+        "conversation_id": "2065049766665551886",
+        "created_at": "2026-06-11T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065049766665551886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065049766665551886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 107759,
+          "like_count": 2799,
+          "quote_count": 126,
+          "reply_count": 34,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "うつ病になるとこうなる\n\n・1週間同じ寝巻き\n・寝るかスマホと睨めっこ\n・トイレも面倒だから水分摂らない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 101,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 920
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T15:21:09.000Z",
+        "description": "心の内を呟く",
+        "id": "1547964430386081792",
+        "name": "青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025575266622533632/cd3hMYYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22104,
+          "following_count": 316,
+          "like_count": 9906,
+          "listed_count": 110,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "username": "aoisora_zzz",
+        "verified": true
+      }
+    ]
+  }
+}

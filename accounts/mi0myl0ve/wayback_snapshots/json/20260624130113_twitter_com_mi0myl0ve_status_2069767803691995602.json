@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2069767775476969472"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2069767803691995602",
+    "created_at": "2026-06-24T13:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069767803691995602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfQK5E4RU5",
+          "end": 51,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2069767803691995602/video/1",
+          "media_key": "7_2069767775476969472",
+          "start": 28,
+          "url": "https://t.co/xfQK5E4RU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069767803691995602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致想骂我的人：猫已经替你们攻击我，所以可以直接原谅我了 https://t.co/xfQK5E4RU5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13269,
+        "height": 1280,
+        "media_key": "7_2069767775476969472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069767775476969472/pu/img/z3tG9m_-LtgdSqnE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069767775476969472/pu/vid/avc1/320x568/bMebwiPYuUnqjnre.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069767775476969472/pu/vid/avc1/480x852/SzhtUxOUKdqhHbx-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069767775476969472/pu/vid/avc1/720x1280/pBcisMbpfMz6210l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069767775476969472/pu/pl/Ty5ScIsC7QIxMZAK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069767775476969472"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2069767803691995602",
+        "created_at": "2026-06-24T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069767803691995602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfQK5E4RU5",
+              "end": 51,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2069767803691995602/video/1",
+              "media_key": "7_2069767775476969472",
+              "start": 28,
+              "url": "https://t.co/xfQK5E4RU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069767803691995602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致想骂我的人：猫已经替你们攻击我，所以可以直接原谅我了 https://t.co/xfQK5E4RU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/hEgElsGGID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/hEgElsGGID"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 111,
+          "like_count": 1255,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

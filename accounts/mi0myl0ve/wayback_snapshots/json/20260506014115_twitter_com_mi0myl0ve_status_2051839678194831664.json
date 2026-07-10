@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2051695278756159557",
+    "created_at": "2026-05-06T01:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051839678194831664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "304masora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051839678194831664",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051819162247536928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@304masora 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2051695278756159557",
+        "created_at": "2026-05-06T01:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051839678194831664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "304masora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051839678194831664",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819162247536928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@304masora 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2051695278756159557",
+        "created_at": "2026-05-06T00:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051819162247536928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819162247536928",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051695466266734876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 要好好活下去，哪怕是为了猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 392
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "性别是不锈钢汤锅",
+        "id": "2046388259333570560",
+        "location": "万达广场",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 72,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 111
+        },
+        "username": "304masora",
+        "verified": false
+      }
+    ]
+  }
+}

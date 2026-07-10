@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049884236707168759",
+    "created_at": "2026-05-01T09:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050149542566461830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "777masora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050149542566461830",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049971744283427275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777masora ！！！🥺我只看过春宵苦短和四畳半的动画，我就在想是不是因为森见登美彦但是直接问的话感觉很唐突x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049884236707168759",
+        "created_at": "2026-05-01T09:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050149542566461830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "777masora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050149542566461830",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049971744283427275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777masora ！！！🥺我只看过春宵苦短和四畳半的动画，我就在想是不是因为森见登美彦但是直接问的话感觉很唐突x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2049884236707168759",
+        "created_at": "2026-04-30T21:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049971744283427275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049971744283427275",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049885645099900985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 柑橘香，一丝甜味一丝苦味，入口会有点小小的麻。\n我当时18年那会看森见登美彦的小说才买的，多少有点情怀加成在那了。\n如果在国内尝试的话不太值得，毕竟就是款便宜的预调酒，汇率换算过来几十块的酒要卖到两百块三百，不划算。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 301
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "混乱中立",
+        "id": "2046388259333570560",
+        "location": "万达广场",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 63,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "777masora",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049885310050574739",
+    "created_at": "2026-04-30T16:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049885310050574739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049885310050574739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在自我对话和反思的时候有一个习惯，就是把我分成过去/未来 和 现在 这两个部分来看待。我会用“她”来称呼不在此刻的我。我没有人格分裂，我就是很喜欢这样干而已。虽然不同时间的我其实并没有被我当成同一个人看待。我承认我这样是出于一种自恋情结，非得在主客体间切换才能审视我自己，蛮别扭的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049885310050574739",
+        "created_at": "2026-04-30T16:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049885310050574739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049885310050574739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在自我对话和反思的时候有一个习惯，就是把我分成过去/未来 和 现在 这两个部分来看待。我会用“她”来称呼不在此刻的我。我没有人格分裂，我就是很喜欢这样干而已。虽然不同时间的我其实并没有被我当成同一个人看待。我承认我这样是出于一种自恋情结，非得在主客体间切换才能审视我自己，蛮别扭的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 83,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 293
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

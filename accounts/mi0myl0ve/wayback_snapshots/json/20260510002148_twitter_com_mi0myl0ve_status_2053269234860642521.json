@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053269234860642521",
+    "created_at": "2026-05-10T00:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053269234860642521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039052178791514112",
+          "start": 3,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053269234860642521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053233429416927496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dodoeqiu: 为什么推上有一个群体里好多人特别喜欢自虐追求心理生病？割手划个猫爪，发帖问这个能不能o要吃多少准备尝试。渴望得心理疾病做餐券女。看的人烦死了如果说几句还得被指责不尊重你们，你们中间有多少是真心的还是跟风的。明明没病非要凹个悲惨人设，和我小学想有抑郁一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053269234860642521",
+        "created_at": "2026-05-10T00:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053269234860642521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039052178791514112",
+              "start": 3,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053269234860642521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053233429416927496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dodoeqiu: 为什么推上有一个群体里好多人特别喜欢自虐追求心理生病？割手划个猫爪，发帖问这个能不能o要吃多少准备尝试。渴望得心理疾病做餐券女。看的人烦死了如果说几句还得被指责不尊重你们，你们中间有多少是真心的还是跟风的。明明没病非要凹个悲惨人设，和我小学想有抑郁一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "conversation_id": "2053233429416927496",
+        "created_at": "2026-05-09T21:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053233429416927496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053233429416927496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么推上有一个群体里好多人特别喜欢自虐追求心理生病？割手划个猫爪，发帖问这个能不能o要吃多少准备尝试。渴望得心理疾病做餐券女。看的人烦死了如果说几句还得被指责不尊重你们，你们中间有多少是真心的还是跟风的。明明没病非要凹个悲惨人设，和我小学想有抑郁一样根本没开智吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 90,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 504
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "互fo直接关注 看到会回（微查成分。\n餐券女｜厌现实公畜 如果你的二次元或网络味道很浓 我并不会在意你的性别｜接🏠\n 我腦子有病說的話別當真 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 94,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 71,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "location": "男🚪52  （互关免",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2053260312468668731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 356,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1137
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

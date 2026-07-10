@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054212762486919168"
+      ],
+      "media_source_tweet_id": [
+        "2054212775531237560"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2054437184091140296",
+    "created_at": "2026-05-13T05:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054437184091140296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qa9jdx5z0M",
+          "end": 40,
+          "expanded_url": "https://x.com/Miiharukawa/status/2054212775531237560/photo/1",
+          "media_key": "3_2054212762486919168",
+          "start": 17,
+          "url": "https://t.co/Qa9jdx5z0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054437184091140296",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054212775531237560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: https://t.co/Qa9jdx5z0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2054212762486919168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIHn7EbUAAbCG-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054212762486919168"
+          ],
+          "media_source_tweet_id": [
+            "2054212775531237560"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2054437184091140296",
+        "created_at": "2026-05-13T05:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054437184091140296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa9jdx5z0M",
+              "end": 40,
+              "expanded_url": "https://x.com/Miiharukawa/status/2054212775531237560/photo/1",
+              "media_key": "3_2054212762486919168",
+              "start": 17,
+              "url": "https://t.co/Qa9jdx5z0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054437184091140296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054212775531237560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: https://t.co/Qa9jdx5z0M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054212762486919168"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2054212775531237560",
+        "created_at": "2026-05-12T14:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054212775531237560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa9jdx5z0M",
+              "end": 23,
+              "expanded_url": "https://x.com/Miiharukawa/status/2054212775531237560/photo/1",
+              "media_key": "3_2054212762486919168",
+              "start": 0,
+              "url": "https://t.co/Qa9jdx5z0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054212775531237560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 23702,
+          "like_count": 774,
+          "quote_count": 10,
+          "reply_count": 24,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qa9jdx5z0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 558
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 215,
+          "like_count": 7238,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 2821
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

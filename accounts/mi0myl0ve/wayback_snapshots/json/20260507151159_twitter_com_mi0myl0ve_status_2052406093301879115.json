@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052042167367966726"
+      ],
+      "media_source_tweet_id": [
+        "2052042170400403575"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2052406093301879115",
+    "created_at": "2026-05-07T15:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052406093301879115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "980784863023435776",
+          "start": 3,
+          "username": "Lainfanart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbikgk1EZB",
+          "end": 39,
+          "expanded_url": "https://x.com/Lainfanart/status/2052042170400403575/photo/1",
+          "media_key": "3_2052042167367966726",
+          "start": 16,
+          "url": "https://t.co/lbikgk1EZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052406093301879115",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052042170400403575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lainfanart: https://t.co/lbikgk1EZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2052042167367966726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpReqIXIAYW2IB.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052042167367966726"
+          ],
+          "media_source_tweet_id": [
+            "2052042170400403575"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052406093301879115",
+        "created_at": "2026-05-07T15:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052406093301879115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "980784863023435776",
+              "start": 3,
+              "username": "Lainfanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbikgk1EZB",
+              "end": 39,
+              "expanded_url": "https://x.com/Lainfanart/status/2052042170400403575/photo/1",
+              "media_key": "3_2052042167367966726",
+              "start": 16,
+              "url": "https://t.co/lbikgk1EZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052406093301879115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052042170400403575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lainfanart: https://t.co/lbikgk1EZB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052042167367966726"
+          ]
+        },
+        "author_id": "980784863023435776",
+        "conversation_id": "2052042170400403575",
+        "created_at": "2026-05-06T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052042170400403575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbikgk1EZB",
+              "end": 23,
+              "expanded_url": "https://x.com/Lainfanart/status/2052042170400403575/photo/1",
+              "media_key": "3_2052042167367966726",
+              "start": 0,
+              "url": "https://t.co/lbikgk1EZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042170400403575",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 60500,
+          "like_count": 6344,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lbikgk1EZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 86,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 464
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T12:31:48.000Z",
+        "description": "Lain 2026\n\n#Ｗｉｒｅｄ \nＬａｉｎ Ｆａｎａｒｔ ｐａｇｅ． \nＰａｒｔｙ ａｔ #Ｃｙｂｅｒｉａ\nＬｅｔ＇ｓ Ａｌｌ Ｌｏｖｅ #Ｌａｉｎ\n\n----------_--_----------\nCome to the Wired as soon as you can.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 11,
+                "tag": "Ｗｉｒｅｄ"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "Ｃｙｂｅｒｉａ"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "Ｌａｉｎ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "navi.solutions",
+                "end": 23,
+                "expanded_url": "https://navi.solutions/",
+                "start": 0,
+                "url": "https://t.co/RNUNIFkWB7"
+              }
+            ]
+          }
+        },
+        "id": "980784863023435776",
+        "location": "The Wired",
+        "name": "Lain Iwakura",
+        "pinned_tweet_id": "1944915155873317277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047866003556831232/GNTF1-rF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28468,
+          "following_count": 1696,
+          "like_count": 8486,
+          "listed_count": 79,
+          "media_count": 11750,
+          "tweet_count": 22265
+        },
+        "url": "https://t.co/RNUNIFkWB7",
+        "username": "Lainfanart",
+        "verified": true
+      }
+    ]
+  }
+}

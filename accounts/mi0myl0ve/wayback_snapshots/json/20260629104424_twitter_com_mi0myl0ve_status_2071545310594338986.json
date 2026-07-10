@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2071444306481590328",
+    "created_at": "2026-06-29T10:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071545310594338986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054226432860327936",
+          "start": 0,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071545310594338986",
+    "in_reply_to_user_id": "2054226432860327936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071444306481590328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aic_BKY 想想放假就能随便玩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2071444306481590328",
+        "created_at": "2026-06-29T10:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071545310594338986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071545310594338986",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071444306481590328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 想想放假就能随便玩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054226432860327936",
+        "conversation_id": "2071444306481590328",
+        "created_at": "2026-06-29T04:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071444306481590328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071444306481590328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明三天后就放假了为什么我这么难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 116,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/来这里是为了交朋友/喜欢我请私信  我喜欢聊天/重要的人@KuaiWo34671",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "2054226432860327936",
+        "location": "给我打钱，快点",
+        "name": "AIC",
+        "pinned_tweet_id": "2064379500310434056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 98,
+          "like_count": 4704,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050883123823693824"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050883125979554178",
+    "created_at": "2026-05-03T10:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050883125979554178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvUUHSvzyj",
+          "end": 104,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2050883125979554178/photo/1",
+          "media_key": "3_2050883123823693824",
+          "start": 81,
+          "url": "https://t.co/mvUUHSvzyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050883125979554178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友我问你们，你们觉得我说这些话的时候是带着一种恶意故意去伤害她的吗？我特地截的整段对话的最后，因为她说我越到后面越情绪失控对她凝聚了所有的恶意用尽全力攻击她。 https://t.co/mvUUHSvzyj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050883123823693824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYzVcda0AAs5ih.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050883123823693824"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050883125979554178",
+        "created_at": "2026-05-03T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050883125979554178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvUUHSvzyj",
+              "end": 104,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2050883125979554178/photo/1",
+              "media_key": "3_2050883123823693824",
+              "start": 81,
+              "url": "https://t.co/mvUUHSvzyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050883125979554178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友我问你们，你们觉得我说这些话的时候是带着一种恶意故意去伤害她的吗？我特地截的整段对话的最后，因为她说我越到后面越情绪失控对她凝聚了所有的恶意用尽全力攻击她。 https://t.co/mvUUHSvzyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 362
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

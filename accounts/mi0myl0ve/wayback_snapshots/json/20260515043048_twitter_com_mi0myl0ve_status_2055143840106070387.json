@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2055143146976412000",
+    "created_at": "2026-05-15T04:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055143840106070387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039298306309062657",
+          "start": 0,
+          "username": "Yunofd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055143840106070387",
+    "in_reply_to_user_id": "2039298306309062657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055143146976412000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunofd6 宝宝好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2055143141335068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVVzGXbcAAlXlW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2055143146976412000",
+        "created_at": "2026-05-15T04:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055143840106070387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039298306309062657",
+              "start": 0,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055143840106070387",
+        "in_reply_to_user_id": "2039298306309062657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055143146976412000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunofd6 宝宝好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055143141335068672"
+          ]
+        },
+        "author_id": "2039298306309062657",
+        "conversation_id": "2055143146976412000",
+        "created_at": "2026-05-15T04:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055143146976412000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwsunZv7QB",
+              "end": 30,
+              "expanded_url": "https://x.com/Yunofd6/status/2055143146976412000/photo/1",
+              "media_key": "3_2055143141335068672",
+              "start": 7,
+              "url": "https://t.co/wwsunZv7QB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055143146976412000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/wwsunZv7QB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 96,
+          "like_count": 741,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 626
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2054160346659926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049783838252113920/vCrsO79g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 179,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 350
+        },
+        "username": "Yunofd6",
+        "verified": false
+      }
+    ]
+  }
+}

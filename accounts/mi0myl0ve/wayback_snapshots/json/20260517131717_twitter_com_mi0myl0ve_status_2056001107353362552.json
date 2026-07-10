@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2056001107353362552",
+    "created_at": "2026-05-17T13:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056001107353362552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056001107353362552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得喝能量饮料后的我，喝酒后的我和od后的我和一般状态下的我根本不是同一个人。理由如下：我在进食什么使我混沌的东西之后会有一条独立的记忆槽，这个记忆槽只有一小部分和正常的我重叠。我只能知道混沌的我大概做了什么，没有办法记得细节，但是一旦重新进入混沌状态，就可以回忆起那些细节。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2056001107353362552",
+        "created_at": "2026-05-17T13:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056001107353362552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056001107353362552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得喝能量饮料后的我，喝酒后的我和od后的我和一般状态下的我根本不是同一个人。理由如下：我在进食什么使我混沌的东西之后会有一条独立的记忆槽，这个记忆槽只有一小部分和正常的我重叠。我只能知道混沌的我大概做了什么，没有办法记得细节，但是一旦重新进入混沌状态，就可以回忆起那些细节。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 99,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 684
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2047964563950522604",
+    "created_at": "2026-04-25T11:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047998406363394517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047998406363394517",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047964563950522604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 我第一次吃晚安也给我干出肠胃炎了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2047964563950522604",
+        "created_at": "2026-04-25T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047998406363394517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047998406363394517",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047964563950522604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 我第一次吃晚安也给我干出肠胃炎了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2047964563950522604",
+        "created_at": "2026-04-25T09:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047964563950522604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047964563950522604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家真的不要吃晚安。我有三次事故。\n第一次干肠胃炎上吐下泻挂水挂了三天。\n第二次吃了骑车去医院看病的时候摔了人被甩出去 人腿伤了走不动 车坏了\n第三次吃了迷迷糊糊在宿舍床上摔下去脑震荡 ，失忆、脑子转不动、晕了好几天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 53,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 176
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨  | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希",
+        "pinned_tweet_id": "2041094444750106844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 202,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

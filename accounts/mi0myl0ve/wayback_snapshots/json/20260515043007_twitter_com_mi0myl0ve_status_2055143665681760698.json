@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055143646790582272"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2055143665681760698",
+    "created_at": "2026-05-15T04:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055143665681760698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vgKsIGAy6N",
+          "end": 33,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2055143665681760698/video/1",
+          "media_key": "7_2055143646790582272",
+          "start": 10,
+          "url": "https://t.co/vgKsIGAy6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055143665681760698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的猫变成狗了😭👋 https://t.co/vgKsIGAy6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5525,
+        "height": 1280,
+        "media_key": "7_2055143646790582272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055143646790582272/pu/img/iiJrEwGiuPaON9Ur.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055143646790582272/pu/vid/avc1/320x568/qGHULUSjerREAn03.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055143646790582272/pu/vid/avc1/480x852/wtvzXWFOd1sMn5rC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055143646790582272/pu/vid/avc1/720x1280/l0rVPZ9ns71n_P1P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055143646790582272/pu/pl/8XzrhiteJR27jljh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055143646790582272"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2055143665681760698",
+        "created_at": "2026-05-15T04:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055143665681760698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgKsIGAy6N",
+              "end": 33,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2055143665681760698/video/1",
+              "media_key": "7_2055143646790582272",
+              "start": 10,
+              "url": "https://t.co/vgKsIGAy6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055143665681760698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的猫变成狗了😭👋 https://t.co/vgKsIGAy6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 96,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 625
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

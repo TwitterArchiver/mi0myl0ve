@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2045937487353356503",
+    "created_at": "2026-04-19T18:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045937487353356503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045937487353356503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一到晚上就容易闪回我在拘留室的那天。我反复惊恐发作喘不上气头疼胃疼，直到我的大脑真的觉得我不行了开始解离我的灵魂才从这副受折磨的身体中出去。但我出来的一周后解离状态解除了，那些痛苦开始反扑我。像闸门突然打开了一样。我的余生恐怕都要生存在恐怖的噩梦里了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2045937487353356503",
+        "created_at": "2026-04-19T18:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045937487353356503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045937487353356503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一到晚上就容易闪回我在拘留室的那天。我反复惊恐发作喘不上气头疼胃疼，直到我的大脑真的觉得我不行了开始解离我的灵魂才从这副受折磨的身体中出去。但我出来的一周后解离状态解除了，那些痛苦开始反扑我。像闸门突然打开了一样。我的余生恐怕都要生存在恐怖的噩梦里了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜里垢｜自言自语系",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2045897322819940416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 21,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048434106632220904",
+    "created_at": "2026-04-26T17:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048450025999765638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1978512071441711107",
+          "start": 0,
+          "username": "mengshou3333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048450025999765638",
+    "in_reply_to_user_id": "1978512071441711107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048445539268845579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengshou3333 好想放火！！！！！火很好……我喜欢火………………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048434106632220904",
+        "created_at": "2026-04-26T17:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048450025999765638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1978512071441711107",
+              "start": 0,
+              "username": "mengshou3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048450025999765638",
+        "in_reply_to_user_id": "1978512071441711107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048445539268845579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengshou3333 好想放火！！！！！火很好……我喜欢火………………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978512071441711107",
+        "conversation_id": "2048434106632220904",
+        "created_at": "2026-04-26T16:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048445539268845579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048445539268845579",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048434106632220904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 好想放火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 71,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 208
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T17:23:46.000Z",
+        "description": "梦想是拯救全人类的夜鹭实习生",
+        "id": "1978512071441711107",
+        "name": "夜鹭鹭鹭鹭",
+        "pinned_tweet_id": "2039056887069704557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987193318451941376/Co638dg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 95,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 500
+        },
+        "username": "mengshou3333",
+        "verified": false
+      }
+    ]
+  }
+}

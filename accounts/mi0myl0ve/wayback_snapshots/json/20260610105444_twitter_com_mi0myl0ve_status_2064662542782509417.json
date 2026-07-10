@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2064623773463273793",
+    "created_at": "2026-06-10T10:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064662542782509417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048564180530446336",
+          "start": 0,
+          "username": "hiyuxxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064662542782509417",
+    "in_reply_to_user_id": "2048564180530446336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064638147674407348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiyuxxx_ 盯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2064623773463273793",
+        "created_at": "2026-06-10T10:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064662542782509417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048564180530446336",
+              "start": 0,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064662542782509417",
+        "in_reply_to_user_id": "2048564180530446336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638147674407348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiyuxxx_ 盯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048564180530446336",
+        "conversation_id": "2064623773463273793",
+        "created_at": "2026-06-10T09:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638147674407348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638147674407348",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064623773463273793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 盯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 100,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 873
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T00:45:57.000Z",
+        "description": "vi）汚部屋「女子高生日記」e人留学 ✧\n加好友私聊易相处、DM领取日常生活照片 | 音乐是毒品 \n\nenfp -\n♡ 敏感、多层次人格、情感依赖、不稳定 、高连接需求\n\n过去\n人格解体/现实解体）、双相情感障碍、抑郁期用药治疗",
+        "id": "2048564180530446336",
+        "location": "12",
+        "name": "ミザ",
+        "pinned_tweet_id": "2062708266866728973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062770402007638016/_OlQj7JK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 74,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 77
+        },
+        "username": "hiyuxxx_",
+        "verified": false
+      }
+    ]
+  }
+}

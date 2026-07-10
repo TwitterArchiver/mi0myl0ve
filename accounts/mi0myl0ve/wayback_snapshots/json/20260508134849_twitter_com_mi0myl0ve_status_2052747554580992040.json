@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052747551728943104"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052665355777290438",
+    "created_at": "2026-05-08T13:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052747554580992040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "304masora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dAuLvv8CqY",
+          "end": 89,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2052747554580992040/photo/1",
+          "media_key": "3_2052747551728943104",
+          "start": 66,
+          "url": "https://t.co/dAuLvv8CqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052747554580992040",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052669486063587513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@304masora 我才到n4没解锁几个分队和藏品甚至没用过这个分队( ・_ゝ・)刚刚试了一把是这样开的，到四层才精二望特别难受 https://t.co/dAuLvv8CqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2052747551728943104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzTBbpbQAAlPeq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052747551728943104"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052665355777290438",
+        "created_at": "2026-05-08T13:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052747554580992040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "304masora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAuLvv8CqY",
+              "end": 89,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2052747554580992040/photo/1",
+              "media_key": "3_2052747551728943104",
+              "start": 66,
+              "url": "https://t.co/dAuLvv8CqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052747554580992040",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052669486063587513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@304masora 我才到n4没解锁几个分队和藏品甚至没用过这个分队( ・_ゝ・)刚刚试了一把是这样开的，到四层才精二望特别难受 https://t.co/dAuLvv8CqY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2052665355777290438",
+        "created_at": "2026-05-08T08:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052669486063587513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052669486063587513",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052665355777290438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 提问，萨卡兹里面用指挥分队要咋打（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 86,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 484
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "性别是不锈钢汤锅",
+        "id": "2046388259333570560",
+        "location": "万达广场",
+        "name": "真宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "username": "304masora",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2065292664879398936",
+    "created_at": "2026-06-12T12:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065408563615576542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886791845025587200",
+          "start": 0,
+          "username": "BDSMSlaanesh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065408563615576542",
+    "in_reply_to_user_id": "1886791845025587200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065396357482058164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDSMSlaanesh 这是机器人吗？触发关键词是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2065292664879398936",
+        "created_at": "2026-06-12T12:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065408563615576542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886791845025587200",
+              "start": 0,
+              "username": "BDSMSlaanesh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065408563615576542",
+        "in_reply_to_user_id": "1886791845025587200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396357482058164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDSMSlaanesh 这是机器人吗？触发关键词是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886791845025587200",
+        "conversation_id": "2065292664879398936",
+        "created_at": "2026-06-12T11:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065396357482058164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065396357482058164",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065292664879398936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 你们能不能统一了立场，再提要不要十八岁之前全部算犯法，压迫女性还是要看女性，一群人自己撕的不可开交，男性很容易统一立场哈，什么三十岁大妈和未成年发生性关系说什么吃到高中生全部都应该判进去。别双标，一群不知道什么人在那里辱女狂欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 101,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 916
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:00:30.000Z",
+        "description": "",
+        "id": "1886791845025587200",
+        "name": "恶毒男配",
+        "pinned_tweet_id": "2060635556951064592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987455641628340224/wHZD8TSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 334,
+          "like_count": 2510,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 242
+        },
+        "username": "BDSMSlaanesh",
+        "verified": false
+      }
+    ]
+  }
+}

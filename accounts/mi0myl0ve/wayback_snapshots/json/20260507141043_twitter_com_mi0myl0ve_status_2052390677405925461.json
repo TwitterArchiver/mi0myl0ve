@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2052390271623844231",
+    "created_at": "2026-05-07T14:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052390677405925461"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052390677405925461",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052390271623844231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是这种小眼睛大鼻子一副有点吃太好了的但是又有点痞气的样子眼神像在蔑视全世界。哦当然也可能是有我的负面滤镜加持毕竟我还是没法释怀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2052390269300129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuOE24aQAA8nXv.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052390271623844231",
+        "created_at": "2026-05-07T14:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390677405925461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052390677405925461",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052390271623844231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是这种小眼睛大鼻子一副有点吃太好了的但是又有点痞气的样子眼神像在蔑视全世界。哦当然也可能是有我的负面滤镜加持毕竟我还是没法释怀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052390269300129792"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052390271623844231",
+        "created_at": "2026-05-07T14:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390271623844231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xR5bCdF9y1",
+              "end": 84,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2052390271623844231/photo/1",
+              "media_key": "3_2052390269300129792",
+              "start": 61,
+              "url": "https://t.co/xR5bCdF9y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052390271623844231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说一个和文字不相关的，当时我被抓来抓我的警察们面相也和这人一样，真的超像的！我有点怀疑是不是这样的面相都不是什么好人（） https://t.co/xR5bCdF9y1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 83,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 457
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

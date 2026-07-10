@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2045823520312336714",
+    "created_at": "2026-04-19T11:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045823520312336714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045823520312336714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥲👋很想去开点劳拉sns啥的睡个好觉但是精神病院离我家超级远地铁都要换几趟，而且我真的很怕被医生问为什么这几个月都没来复诊，一想到这些我还是想躺尸好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2045823520312336714",
+        "created_at": "2026-04-19T11:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045823520312336714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045823520312336714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲👋很想去开点劳拉sns啥的睡个好觉但是精神病院离我家超级远地铁都要换几趟，而且我真的很怕被医生问为什么这几个月都没来复诊，一想到这些我还是想躺尸好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/00｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜里垢｜自言自语系",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

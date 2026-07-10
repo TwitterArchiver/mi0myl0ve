@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051691738239254528"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2051691740281929986",
+    "created_at": "2026-05-05T15:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051691740281929986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wQS4odDojF",
+          "end": 128,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2051691740281929986/photo/1",
+          "media_key": "3_2051691738239254528",
+          "start": 105,
+          "url": "https://t.co/wQS4odDojF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051691740281929986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概以前的这个简介能说明为什么我会喜欢luci……虽然我去年才入坑粥。大概就是戏剧/演出元素和酒神精神是非常非常吸引我的东西。说实话不打界园我还没法认识这个角色来着）在自己有之前都是在借朋友的助战用（）唉集p https://t.co/wQS4odDojF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_2051691738239254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkSw_5awAAjKUJ.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051691738239254528"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2051691740281929986",
+        "created_at": "2026-05-05T15:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051691740281929986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQS4odDojF",
+              "end": 128,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2051691740281929986/photo/1",
+              "media_key": "3_2051691738239254528",
+              "start": 105,
+              "url": "https://t.co/wQS4odDojF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051691740281929986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概以前的这个简介能说明为什么我会喜欢luci……虽然我去年才入坑粥。大概就是戏剧/演出元素和酒神精神是非常非常吸引我的东西。说实话不打界园我还没法认识这个角色来着）在自己有之前都是在借朋友的助战用（）唉集p https://t.co/wQS4odDojF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 85,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 387
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

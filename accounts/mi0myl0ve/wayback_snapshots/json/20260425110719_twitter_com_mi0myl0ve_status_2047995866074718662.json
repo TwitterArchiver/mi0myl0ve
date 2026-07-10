@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2047995866074718662",
+    "created_at": "2026-04-25T11:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047995866074718662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047995866074718662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话我之前最常吃的愈美频率也不高，没到成瘾的程度，不会因为戒断就崩溃。因为被晶后墙内sns/购物账号被盯以后没有吃过了。但是我的状态反而越来越差，抗抑郁抗焦虑情绪稳定剂都无效。本来有点用的安非他酮现在也没用了。戒o对我究竟是不是好事还有待商榷，毕竟总想着绝望是o的时候没发生过的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2047995866074718662",
+        "created_at": "2026-04-25T11:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047995866074718662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047995866074718662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话我之前最常吃的愈美频率也不高，没到成瘾的程度，不会因为戒断就崩溃。因为被晶后墙内sns/购物账号被盯以后没有吃过了。但是我的状态反而越来越差，抗抑郁抗焦虑情绪稳定剂都无效。本来有点用的安非他酮现在也没用了。戒o对我究竟是不是好事还有待商榷，毕竟总想着绝望是o的时候没发生过的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 53,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047993879887319040"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047993882672304622",
+    "created_at": "2026-04-25T10:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047993882672304622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinitetweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2046435070760882176/ntJbYfUV?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046435070760882176/ntJbYfUV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/tg2PrMiyrH"
+        },
+        {
+          "display_url": "pic.x.com/k5YDYApFRu",
+          "end": 71,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2047993882672304622/photo/1",
+          "media_key": "3_2047993879887319040",
+          "start": 48,
+          "url": "https://t.co/k5YDYApFRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047993882672304622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/tg2PrMiyrH https://t.co/k5YDYApFRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2047993879887319040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvvlUDbkAAdMtH.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047993879887319040"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047993882672304622",
+        "created_at": "2026-04-25T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047993882672304622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2046435070760882176/ntJbYfUV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046435070760882176/ntJbYfUV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/tg2PrMiyrH"
+            },
+            {
+              "display_url": "pic.x.com/k5YDYApFRu",
+              "end": 71,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2047993882672304622/photo/1",
+              "media_key": "3_2047993879887319040",
+              "start": 48,
+              "url": "https://t.co/k5YDYApFRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047993882672304622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/tg2PrMiyrH https://t.co/k5YDYApFRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 173
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

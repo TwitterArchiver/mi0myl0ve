@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049449449379033196",
+    "created_at": "2026-04-29T11:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049449449379033196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mi0myl0ve/stat…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/mi0myl0ve/status/2049448381609865285",
+          "start": 139,
+          "url": "https://t.co/U6I59Iex3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049449449379033196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049448381609865285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实本本本质上和游泳的换气是一个原理。我之前学游泳不会换气，后来想通了就是因为悟到了“换气”应该直接理解成呼吸。\n游泳也是一个缓解焦虑的办法，其一是呼吸的方式，其二是温度，其三是漂浮在水中既符合胎儿的环境也符合祖先远古生物的环境。←这不是我编的，是我之前在哪学到的我不记得了。 https://t.co/U6I59Iex3n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049449449379033196",
+        "created_at": "2026-04-29T11:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049449449379033196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi0myl0ve/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/mi0myl0ve/status/2049448381609865285",
+              "start": 139,
+              "url": "https://t.co/U6I59Iex3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049449449379033196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049448381609865285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实本本本质上和游泳的换气是一个原理。我之前学游泳不会换气，后来想通了就是因为悟到了“换气”应该直接理解成呼吸。\n游泳也是一个缓解焦虑的办法，其一是呼吸的方式，其二是温度，其三是漂浮在水中既符合胎儿的环境也符合祖先远古生物的环境。←这不是我编的，是我之前在哪学到的我不记得了。 https://t.co/U6I59Iex3n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049448381609865285",
+        "created_at": "2026-04-29T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049448381609865285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049448381609865285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噢对，我分享一个缓解焦虑的方式，就是短吸长呼。吸一大口气然后很慢很慢地吐气，循环。\n其实本质上是调节心率的方式，真的非非非常有效，不仅是缓解焦虑，跑完步也可以这么调节心率。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 77,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 256
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

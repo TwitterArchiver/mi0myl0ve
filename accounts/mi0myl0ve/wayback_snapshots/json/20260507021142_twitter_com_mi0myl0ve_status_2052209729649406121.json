@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052209709424525313"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2052209729649406121",
+    "created_at": "2026-05-07T02:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052209729649406121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzQ1yirfs8",
+          "end": 30,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2052209729649406121/video/1",
+          "media_key": "7_2052209709424525313",
+          "start": 7,
+          "url": "https://t.co/fzQ1yirfs8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052209729649406121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来听我唱歌🤤 https://t.co/fzQ1yirfs8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78635,
+        "height": 1280,
+        "media_key": "7_2052209709424525313",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052209709424525313/pu/img/NILjHJM26-v1KJe5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052209709424525313/pu/vid/avc1/320x710/vLtkxj1tWo0lZ2yu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052209709424525313/pu/vid/avc1/480x1066/LF2HxREdOHKfnxgH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052209709424525313/pu/vid/avc1/576x1280/qXdCHkC4ygNA4Uh-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052209709424525313/pu/pl/kRL6Pq9YoCVFJJcw.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052209709424525313"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052209729649406121",
+        "created_at": "2026-05-07T02:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052209729649406121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzQ1yirfs8",
+              "end": 30,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2052209729649406121/video/1",
+              "media_key": "7_2052209709424525313",
+              "start": 7,
+              "url": "https://t.co/fzQ1yirfs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052209729649406121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来听我唱歌🤤 https://t.co/fzQ1yirfs8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

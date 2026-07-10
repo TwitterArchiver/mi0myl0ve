@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048446535051198590",
+    "created_at": "2026-04-26T17:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048458093009547294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048458093009547294",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048446535051198590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 抚摸抚摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048446535051198590",
+        "created_at": "2026-04-26T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048458093009547294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048458093009547294",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048446535051198590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 抚摸抚摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2048446535051198590",
+        "created_at": "2026-04-26T16:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048446535051198590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048446535051198590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我变得没有什么思考能力了，因为好多事我都会往最坏的结局上面去想，一想到可能会这样我就难过……不如不想，就这样放空大脑，变成一个没有想法的人类……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 71,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 210
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "窝是恶魔羊AZ.#小恶魔系#术力口#galgame#会看vtuber#明日方舟，最近有玩终末地#严重网瘾Steam端游手游都玩#看番，有时候感觉这辈子有了......因为吃了奇怪的药和痛苦的经历我失去了好多记忆，如果不是有人告诉我可能不会再想起......但是还是忘了好多性格也变了。可以找窝一起打游戏和wyy听歌呐~",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "1725205374507368558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 17,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 44
+        },
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

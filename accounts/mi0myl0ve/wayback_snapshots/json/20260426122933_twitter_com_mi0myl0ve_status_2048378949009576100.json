@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048345157033238756",
+    "created_at": "2026-04-26T12:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048378949009576100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048378949009576100",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048345157033238756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 好聪明的说法，我以后也这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2048345152507482112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0vEEiaEAAOekO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048345157033238756",
+        "created_at": "2026-04-26T12:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048378949009576100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048378949009576100",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048345157033238756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 好聪明的说法，我以后也这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048345152507482112"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2048345157033238756",
+        "created_at": "2026-04-26T10:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048345157033238756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrPuQJx6NY",
+              "end": 114,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2048345157033238756/photo/1",
+              "media_key": "3_2048345152507482112",
+              "start": 91,
+              "url": "https://t.co/GrPuQJx6NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048345157033238756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要ban我不要ban我\n我已经没有聚焦在伤口上面了\n！这个全部都是假的是sfx是特效化妆！ 没有任何人受到伤害！没有任何刀受到伤害！没有任何皮肤器官受到伤害！没有任何真血流出来！ https://t.co/GrPuQJx6NY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 69,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 189
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "🚪",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 459,
+          "like_count": 11887,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

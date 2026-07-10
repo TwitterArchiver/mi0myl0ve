@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2065464866853552160",
+    "created_at": "2026-06-12T16:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065464866853552160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065464866853552160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咋这么戳你们肺管子啊，因为你们真的把未成年早期拥有性经历当成很骄傲的事情吗？这个骄傲的点到底是什么，因为我不是下半身动物所以我不太理解吧。而且我也没有提性别为啥那么多男的在破防，我明明是男女都指啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2065464866853552160",
+        "created_at": "2026-06-12T16:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065464866853552160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065464866853552160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋这么戳你们肺管子啊，因为你们真的把未成年早期拥有性经历当成很骄傲的事情吗？这个骄傲的点到底是什么，因为我不是下半身动物所以我不太理解吧。而且我也没有提性别为啥那么多男的在破防，我明明是男女都指啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 101,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 924
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

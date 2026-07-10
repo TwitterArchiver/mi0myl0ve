@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2048395168970387758",
+    "created_at": "2026-04-27T05:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048643092514038020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048393340048293888",
+          "start": 0,
+          "username": "Numiouo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048643092514038020",
+    "in_reply_to_user_id": "2048393340048293888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048395168970387758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo2 摸摸糯米老师……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2048395168970387758",
+        "created_at": "2026-04-27T05:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048643092514038020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048393340048293888",
+              "start": 0,
+              "username": "Numiouo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048643092514038020",
+        "in_reply_to_user_id": "2048393340048293888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048395168970387758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo2 摸摸糯米老师……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2048395168970387758",
+        "created_at": "2026-04-26T13:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048395168970387758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/numiou…",
+              "end": 83,
+              "expanded_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "start": 60,
+              "status": 200,
+              "title": "糯米糖纸🍬 (@numiouo.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "url": "https://t.co/O8Bknz67mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048395168970387758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3000,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我是糯米，大号和小号都被禁言中\n此账号暂时不发布任何精神病相关内容\n我在bluesky🆔：numiouo（推特同号）\n\nhttps://t.co/O8Bknz67mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 73,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 211
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米3.0（大号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 134,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "Numiouo2",
+        "verified": false
+      }
+    ]
+  }
+}

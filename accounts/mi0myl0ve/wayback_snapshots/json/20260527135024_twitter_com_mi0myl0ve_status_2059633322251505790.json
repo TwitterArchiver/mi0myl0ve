@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2059335251688915315",
+    "created_at": "2026-05-27T13:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059633322251505790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738041147258441728",
+          "start": 0,
+          "username": "GuYuu2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059633322251505790",
+    "in_reply_to_user_id": "1738041147258441728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059614533778575496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuYuu2003 反正某些人眼里女的活着怎么做都是厌女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2059335251688915315",
+        "created_at": "2026-05-27T13:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059633322251505790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738041147258441728",
+              "start": 0,
+              "username": "GuYuu2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059633322251505790",
+        "in_reply_to_user_id": "1738041147258441728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059614533778575496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuYuu2003 反正某些人眼里女的活着怎么做都是厌女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738041147258441728",
+        "conversation_id": "2059335251688915315",
+        "created_at": "2026-05-27T12:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059614533778575496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059614533778575496",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059335251688915315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 上次那个把自己的胸割了的爱豆不也被一顿狂喷厌弃女身吗🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ヨルアラシ",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 105,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 787
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:38:06.000Z",
+        "description": "23岁｜INTP｜家里蹲｜碎碎念+看片用小号，低浮上。",
+        "id": "1738041147258441728",
+        "location": "赛博空间",
+        "name": "谷雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926977434177458176/4iT3TSWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 111,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 137
+        },
+        "username": "GuYuu2003",
+        "verified": false
+      }
+    ]
+  }
+}

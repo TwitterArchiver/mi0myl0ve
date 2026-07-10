@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053859586512433152"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053859787952312611",
+    "created_at": "2026-05-11T15:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053859787952312611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/84OqkSNOxY",
+          "end": 33,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2053859787952312611/video/1",
+          "media_key": "7_2053859586512433152",
+          "start": 10,
+          "url": "https://t.co/84OqkSNOxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053859787952312611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pov：你被猫殴打 https://t.co/84OqkSNOxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10688,
+        "height": 720,
+        "media_key": "7_2053859586512433152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053859586512433152/pu/img/xjcmXJj0zZHCe79R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053859586512433152/pu/vid/avc1/480x270/PWo-lqUT_Dumio6y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053859586512433152/pu/vid/avc1/640x360/PNpzZ0jRstZfs5xr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053859586512433152/pu/vid/avc1/1280x720/Elp7z_cC1EU0hJEy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053859586512433152/pu/pl/_GuCeVBX8Sq_Flmi.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053859586512433152"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053859787952312611",
+        "created_at": "2026-05-11T15:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053859787952312611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84OqkSNOxY",
+              "end": 33,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2053859787952312611/video/1",
+              "media_key": "7_2053859586512433152",
+              "start": 10,
+              "url": "https://t.co/84OqkSNOxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053859787952312611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pov：你被猫殴打 https://t.co/84OqkSNOxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 90,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 547
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

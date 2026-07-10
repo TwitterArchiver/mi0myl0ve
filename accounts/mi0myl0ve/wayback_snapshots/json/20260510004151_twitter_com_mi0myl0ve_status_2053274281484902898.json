@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2053273457820086580",
+    "created_at": "2026-05-10T00:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053274281484902898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053274281484902898",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053273457820086580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从小就好执着于“证明我妈是爱我的”。以前我们家经济条件真的非常非常差（现在已经好很多了），她既没有给到我足够的物质支持也没有给到我精神支持。我以前是真的有吃不上饭的情况出现。而且我以前一直觉得不被妈妈爱是一件很羞耻的事情，和别人提到她的时候我根本就不会说她哪里不好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053273457820086580",
+        "created_at": "2026-05-10T00:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053274281484902898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053274281484902898",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053273457820086580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从小就好执着于“证明我妈是爱我的”。以前我们家经济条件真的非常非常差（现在已经好很多了），她既没有给到我足够的物质支持也没有给到我精神支持。我以前是真的有吃不上饭的情况出现。而且我以前一直觉得不被妈妈爱是一件很羞耻的事情，和别人提到她的时候我根本就不会说她哪里不好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2053273457820086580",
+        "created_at": "2026-05-10T00:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053273457820086580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053273457820086580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能接受我妈不爱我是因为，我之前拿我挣得稿费和省下来的生活费带她去广州玩，我是希望能给她带来幸福、并且我想知道她也是希望我不要痛苦的。那段时间我在学校过得特别差但是我又真的很害怕她不同意我休学。结果就是她其实根本不在乎我痛不痛苦，她只是想要我一定顺利拿到这个文凭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 506
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

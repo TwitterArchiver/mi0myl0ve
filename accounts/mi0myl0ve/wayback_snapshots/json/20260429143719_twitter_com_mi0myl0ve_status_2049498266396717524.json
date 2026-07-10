@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2049498266396717524",
+    "created_at": "2026-04-29T14:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049498266396717524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mi0myl0ve/stat…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/mi0myl0ve/status/2049493013643354388",
+          "start": 60,
+          "url": "https://t.co/TGX25oDQlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049498266396717524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049493013643354388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是很有年上感的魅魔x看起来单纯实则很狡黠的JC\n姐名字是夜原霞（よるはら　かすみ），妹名字是御薬袋梅雨（みない　つゆ） https://t.co/TGX25oDQlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2049493010975793152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDCOjboAA7OyA.jpg",
+        "width": 742
+      },
+      {
+        "height": 730,
+        "media_key": "3_2049493011067994112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDCO5agAAzZWj.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2049498266396717524",
+        "created_at": "2026-04-29T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049498266396717524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi0myl0ve/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/mi0myl0ve/status/2049493013643354388",
+              "start": 60,
+              "url": "https://t.co/TGX25oDQlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049498266396717524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493013643354388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是很有年上感的魅魔x看起来单纯实则很狡黠的JC\n姐名字是夜原霞（よるはら　かすみ），妹名字是御薬袋梅雨（みない　つゆ） https://t.co/TGX25oDQlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493010975793152",
+            "3_2049493011067994112"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049493013643354388",
+        "created_at": "2026-04-29T14:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049493013643354388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE86qSTuoi",
+              "end": 29,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2049493013643354388/photo/1",
+              "media_key": "3_2049493010975793152",
+              "start": 6,
+              "url": "https://t.co/bE86qSTuoi"
+            },
+            {
+              "display_url": "pic.x.com/bE86qSTuoi",
+              "end": 29,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2049493013643354388/photo/1",
+              "media_key": "3_2049493011067994112",
+              "start": 6,
+              "url": "https://t.co/bE86qSTuoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493013643354388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她们是一对 https://t.co/bE86qSTuoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 264
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

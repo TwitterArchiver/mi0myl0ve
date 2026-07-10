@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2069701353396707523",
+    "created_at": "2026-06-24T09:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069711668603666651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794432606739820545",
+          "start": 0,
+          "username": "guiguijian84900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069711668603666651",
+    "in_reply_to_user_id": "1794432606739820545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069710141512126713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guiguijian84900 也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2069701353396707523",
+        "created_at": "2026-06-24T09:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069711668603666651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794432606739820545",
+              "start": 0,
+              "username": "guiguijian84900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069711668603666651",
+        "in_reply_to_user_id": "1794432606739820545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069710141512126713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiguijian84900 也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794432606739820545",
+        "conversation_id": "2069701353396707523",
+        "created_at": "2026-06-24T09:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069710141512126713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069710141512126713",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069701353396707523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 戒了 喝点魔爪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/hEgElsGGID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/hEgElsGGID"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 111,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T18:17:47.000Z",
+        "description": "",
+        "id": "1794432606739820545",
+        "name": "guiguijiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847009093573398530/4NDtB2TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "guiguijian84900",
+        "verified": false
+      }
+    ]
+  }
+}

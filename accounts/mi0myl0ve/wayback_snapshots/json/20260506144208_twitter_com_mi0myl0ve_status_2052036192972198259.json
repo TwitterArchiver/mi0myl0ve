@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2052036192972198259",
+    "created_at": "2026-05-06T14:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052036192972198259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052036192972198259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前我也是一个说话绕弯子、爱嘴硬、不坦诚的人。我现在已经改了很多了，整个人和以前相比相当坦率。甚至由于讲话太直接还被朋友提醒过一针见血会伤人让我多学委婉的表达方式。我也有在学。其实学会坦诚最重要的一是直面羞耻感，二是学会把各种评价都看成中性的描述。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2052036192972198259",
+        "created_at": "2026-05-06T14:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052036192972198259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052036192972198259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我也是一个说话绕弯子、爱嘴硬、不坦诚的人。我现在已经改了很多了，整个人和以前相比相当坦率。甚至由于讲话太直接还被朋友提醒过一针见血会伤人让我多学委婉的表达方式。我也有在学。其实学会坦诚最重要的一是直面羞耻感，二是学会把各种评价都看成中性的描述。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 86,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 409
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

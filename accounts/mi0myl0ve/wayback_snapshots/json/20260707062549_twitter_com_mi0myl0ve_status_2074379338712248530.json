@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074379336078270464"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2074379338712248530",
+    "created_at": "2026-07-07T06:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074379338712248530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qsMgRgZweu",
+          "end": 23,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2074379338712248530/photo/1",
+          "media_key": "3_2074379336078270464",
+          "start": 0,
+          "url": "https://t.co/qsMgRgZweu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074379338712248530",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qsMgRgZweu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2236,
+        "media_key": "3_2074379336078270464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmtBABbIAANorQ.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074379336078270464"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2074379338712248530",
+        "created_at": "2026-07-07T06:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074379338712248530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsMgRgZweu",
+              "end": 23,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2074379338712248530/photo/1",
+              "media_key": "3_2074379336078270464",
+              "start": 0,
+              "url": "https://t.co/qsMgRgZweu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074379338712248530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qsMgRgZweu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 114,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2049441815045280079",
+    "created_at": "2026-04-29T11:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049449848425021897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626412170337746944",
+          "start": 0,
+          "username": "moontidebemoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049449848425021897",
+    "in_reply_to_user_id": "1626412170337746944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049449360333930891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontidebemoth 嘿嘿嘿😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2049441815045280079",
+        "created_at": "2026-04-29T11:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049449848425021897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626412170337746944",
+              "start": 0,
+              "username": "moontidebemoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049449848425021897",
+        "in_reply_to_user_id": "1626412170337746944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049449360333930891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontidebemoth 嘿嘿嘿😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626412170337746944",
+        "conversation_id": "2049441815045280079",
+        "created_at": "2026-04-29T11:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049449360333930891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049449360333930891",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049441815045280079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 眼罩是对的，帅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜病み垢｜自言自语系｜",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2047750989877518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 77,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 257
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need",
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "1791539273356972365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 95,
+          "like_count": 2475,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1033
+        },
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

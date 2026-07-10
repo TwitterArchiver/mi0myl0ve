@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2045936824078786722",
+    "created_at": "2026-04-19T18:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045936824078786722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045936824078786722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他们只会说我精神失常说我不检点。这些话就这么出口了只因为他们看来我是一个“做错事的人”，所以他们想代表正义惩罚我。我不觉得我用药物逃避痛苦是一种吸毒，我觉得它和喝酒割手都是一样的用伤害身体换取精神上的慰藉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2045936824078786722",
+        "created_at": "2026-04-19T18:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045936824078786722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045936824078786722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们只会说我精神失常说我不检点。这些话就这么出口了只因为他们看来我是一个“做错事的人”，所以他们想代表正义惩罚我。我不觉得我用药物逃避痛苦是一种吸毒，我觉得它和喝酒割手都是一样的用伤害身体换取精神上的慰藉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜♀｜メンヘラ｜自伤行为｜家里蹲死废宅｜里垢｜自言自语系",
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "ダレデスカユウレイ？",
+        "pinned_tweet_id": "2045897322819940416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044734871931932672/EyoS393I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 21,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

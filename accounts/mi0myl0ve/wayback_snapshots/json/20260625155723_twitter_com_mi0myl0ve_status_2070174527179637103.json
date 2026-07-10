@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070174516534493184",
+        "3_2070174523631284225"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2070174527179637103",
+    "created_at": "2026-06-25T15:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070174527179637103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ESgHTJHgv",
+          "end": 52,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2070174527179637103/photo/1",
+          "media_key": "3_2070174516534493184",
+          "start": 29,
+          "url": "https://t.co/1ESgHTJHgv"
+        },
+        {
+          "display_url": "pic.x.com/1ESgHTJHgv",
+          "end": 52,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2070174527179637103/photo/1",
+          "media_key": "3_2070174523631284225",
+          "start": 29,
+          "url": "https://t.co/1ESgHTJHgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070174527179637103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好意思现在才看到🥺🥺🥺谢谢你喵………………给你看毛米🥺 https://t.co/1ESgHTJHgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2070174516534493184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq8wSkawAAeN2M.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070174523631284225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq8wtAbMAEZY34.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070174516534493184",
+            "3_2070174523631284225"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2070174527179637103",
+        "created_at": "2026-06-25T15:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070174527179637103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ESgHTJHgv",
+              "end": 52,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2070174527179637103/photo/1",
+              "media_key": "3_2070174516534493184",
+              "start": 29,
+              "url": "https://t.co/1ESgHTJHgv"
+            },
+            {
+              "display_url": "pic.x.com/1ESgHTJHgv",
+              "end": 52,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2070174527179637103/photo/1",
+              "media_key": "3_2070174523631284225",
+              "start": 29,
+              "url": "https://t.co/1ESgHTJHgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070174527179637103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思现在才看到🥺🥺🥺谢谢你喵………………给你看毛米🥺 https://t.co/1ESgHTJHgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/hEgElsGGID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/hEgElsGGID"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 112,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}

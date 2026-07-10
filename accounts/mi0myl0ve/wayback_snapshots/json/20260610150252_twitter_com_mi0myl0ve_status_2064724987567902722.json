@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2064724357839294680",
+    "created_at": "2026-06-10T15:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064724987567902722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064724987567902722",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064724357839294680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能略带一点炫耀的意味吧我的高中环境还是蛮好的，除了管理层不是人以外，老师同学都非常活人。还有就是我的高中其实因为各种各样好好坏坏的事情出圈/上热搜过很多次。特别是一些经典传统神必仪式每年都被不知名网友拿出来当梗图到处发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2064724357839294680",
+        "created_at": "2026-06-10T15:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064724987567902722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064724987567902722",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064724357839294680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能略带一点炫耀的意味吧我的高中环境还是蛮好的，除了管理层不是人以外，老师同学都非常活人。还有就是我的高中其实因为各种各样好好坏坏的事情出圈/上热搜过很多次。特别是一些经典传统神必仪式每年都被不知名网友拿出来当梗图到处发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2064724357839294680",
+        "created_at": "2026-06-10T15:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064724357839294680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064724357839294680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在那年今日里看到一些高考完之后的高中生活回忆，我只能说好想念我复学回去的那个班级里的女同学，是我相处过最舒服最快乐的一批人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "description": "＝澪/mio｜♀魔女♀｜メンヘラ｜病み垢｜自伤行为｜自言自语系｜提问箱https://t.co/hUMnuxyu8i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 58,
+                "expanded_url": "http://ngl.link/mio0o0o0",
+                "start": 35,
+                "url": "https://t.co/hUMnuxyu8i"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "天使17歲",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 101,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 876
+        },
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}
