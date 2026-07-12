@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2075257758866391484",
+    "created_at": "2026-07-10T03:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075422743110291728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966471073287012352",
+          "start": 0,
+          "username": "jinTINA455140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075422743110291728",
+    "in_reply_to_user_id": "1966471073287012352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075339377153311084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinTINA455140 类似吧，冲动自杀的人大概率会后悔，计划自杀的人可能比较稳重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2075257758866391484",
+        "created_at": "2026-07-10T03:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075422743110291728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966471073287012352",
+              "start": 0,
+              "username": "jinTINA455140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075422743110291728",
+        "in_reply_to_user_id": "1966471073287012352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075339377153311084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinTINA455140 类似吧，冲动自杀的人大概率会后悔，计划自杀的人可能比较稳重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966471073287012352",
+        "conversation_id": "2075257758866391484",
+        "created_at": "2026-07-09T22:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075339377153311084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042136415295750144",
+              "start": 0,
+              "username": "mi0myl0ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075339377153311084",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075257758866391484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0myl0ve 如果要杀的人是自己呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 115,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T11:57:11.000Z",
+        "description": "我喜欢很安静的地方，还有朋友，我喜欢朋友。",
+        "id": "1966471073287012352",
+        "name": "小xc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061505514086019072/uM2Mx2Ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "jinTINA455140",
+        "verified": false
+      }
+    ]
+  }
+}
