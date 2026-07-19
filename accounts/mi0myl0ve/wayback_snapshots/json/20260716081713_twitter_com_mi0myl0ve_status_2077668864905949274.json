@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2077668845138161664"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "conversation_id": "2077668864905949274",
+    "created_at": "2026-07-16T08:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077668864905949274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/215jcPwqnf",
+          "end": 30,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2077668864905949274/video/1",
+          "media_key": "7_2077668845138161664",
+          "start": 7,
+          "url": "https://t.co/215jcPwqnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077668864905949274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？！喵喵？！ https://t.co/215jcPwqnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4458,
+        "height": 1280,
+        "media_key": "7_2077668845138161664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077668845138161664/pu/img/0AhrSl1_Ife4P-xz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077668845138161664/pu/vid/avc1/320x568/qXoUQYbTMFgKic55.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077668845138161664/pu/vid/avc1/480x852/dw1_ICEaGezorTQq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077668845138161664/pu/vid/avc1/720x1280/RDTL7aH5M3Kqnnro.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077668845138161664/pu/pl/GeCAML2LmDG-bUcO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077668845138161664"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "conversation_id": "2077668864905949274",
+        "created_at": "2026-07-16T08:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077668864905949274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/215jcPwqnf",
+              "end": 30,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2077668864905949274/video/1",
+              "media_key": "7_2077668845138161664",
+              "start": 7,
+              "url": "https://t.co/215jcPwqnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077668864905949274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？！喵喵？！ https://t.co/215jcPwqnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "location": "天国",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2049728184481087811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 116,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false
+      }
+    ]
+  }
+}
