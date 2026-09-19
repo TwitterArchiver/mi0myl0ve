@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2087634935914119668",
+    "created_at": "2026-08-13T05:13:07.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087769394810405266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "DXMPOPPER2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087769394810405266",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087634935914119668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMPOPPER2007 居然是同城"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087634926011305984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjE54maUAAELEt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2087634935914119668",
+        "created_at": "2026-08-13T05:13:07.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087769394810405266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "DXMPOPPER2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087769394810405266",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087634935914119668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMPOPPER2007 居然是同城"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087634926011305984"
+          ]
+        },
+        "author_id": "1879125730581450753",
+        "conversation_id": "2087634935914119668",
+        "created_at": "2026-08-12T20:18:49.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087634935914119668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZcPtuhgM9",
+              "end": 46,
+              "expanded_url": "https://x.com/DXMPOPPER2007/status/2087634935914119668/photo/1",
+              "media_key": "3_2087634926011305984",
+              "start": 23,
+              "url": "https://t.co/RZcPtuhgM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087634935914119668",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087634926011305984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去医院开了一个月的阿普唑仑和艾司西酞普兰 https://t.co/RZcPtuhgM9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087769394810405266",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2081990341046264234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042136415295750144/1775718515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 119,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2087723845449118144",
+        "name": "dex",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879125730581450753/1780619177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 147,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "DXMPOPPER2007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

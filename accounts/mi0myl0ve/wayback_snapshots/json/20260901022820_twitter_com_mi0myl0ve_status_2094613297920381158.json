@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094613289041096704"
+      ]
+    },
+    "author_id": "2042136415295750144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094613297920381158",
+    "created_at": "2026-09-01T02:28:20.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094613297920381158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZovHT8qiYg",
+          "end": 26,
+          "expanded_url": "https://x.com/mi0myl0ve/status/2094613297920381158/photo/1",
+          "media_key": "3_2094613289041096704",
+          "start": 3,
+          "url": "https://t.co/ZovHT8qiYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094613297920381158",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094613289041096704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水母 https://t.co/ZovHT8qiYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094613289041096704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGPsEsbcAA8eBP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094613289041096704"
+          ]
+        },
+        "author_id": "2042136415295750144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094613297920381158",
+        "created_at": "2026-09-01T02:28:20.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094613297920381158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZovHT8qiYg",
+              "end": 26,
+              "expanded_url": "https://x.com/mi0myl0ve/status/2094613297920381158/photo/1",
+              "media_key": "3_2094613289041096704",
+              "start": 3,
+              "url": "https://t.co/ZovHT8qiYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094613297920381158",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094613289041096704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水母 https://t.co/ZovHT8qiYg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜自伤行为｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094613297920381158",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2081990341046264234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042136415295750144/1775718515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 115,
+          "like_count": 1445,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1237
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
