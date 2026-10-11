@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2103449355558781171",
+    "created_at": "2026-09-26T16:47:43.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103889264509628656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046388259333570560",
+          "start": 0,
+          "username": "basilia0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103889264509628656",
+    "in_reply_to_user_id": "2046388259333570560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103449355558781171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilia0x0 有七彩发光RGB福还是要看一下的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2103449355558781171",
+        "created_at": "2026-09-26T16:47:43.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103889264509628656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046388259333570560",
+              "start": 0,
+              "username": "basilia0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103889264509628656",
+        "in_reply_to_user_id": "2046388259333570560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103449355558781171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilia0x0 有七彩发光RGB福还是要看一下的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046388259333570560",
+        "conversation_id": "2103449355558781171",
+        "created_at": "2026-09-25T11:39:41.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103449355558781171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103449355558781171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算你的福是七彩发光RGB的我也不想看……黑名单持续增加"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜社交障碍｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103889264509628656",
+        "name": "飛べない翼",
+        "pinned_tweet_id": "2081990341046264234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042136415295750144/1775718515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 117,
+          "like_count": 1512,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1280
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T00:39:36.000Z",
+        "description": "性别:■，取向:■，年龄:■■，所在地:■■",
+        "id": "2046388259333570560",
+        "is_identity_verified": false,
+        "location": "■■",
+        "most_recent_tweet_id": "2103449743506743469",
+        "name": "300抽全是紫气东来",
+        "pinned_tweet_id": "2055215715993702459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046388259333570560/1787200891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393446923370496/2PQZGvNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 248,
+          "like_count": 2230,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "basilia0x0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

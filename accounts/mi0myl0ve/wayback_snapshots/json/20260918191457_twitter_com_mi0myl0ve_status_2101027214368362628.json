@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2042136415295750144",
+    "conversation_id": "2101026167864381646",
+    "created_at": "2026-09-18T19:14:57.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101027214368362628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101027214368362628",
+    "in_reply_to_user_id": "2042136415295750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101026167864381646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "压的时候其实可以微微向上发力但是前面不要卡到喉咙。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2101026167864381646",
+        "created_at": "2026-09-18T19:14:57.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101027214368362628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101027214368362628",
+        "in_reply_to_user_id": "2042136415295750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101026167864381646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "压的时候其实可以微微向上发力但是前面不要卡到喉咙。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042136415295750144",
+        "conversation_id": "2101026167864381646",
+        "created_at": "2026-09-18T19:10:48.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101026167864381646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suzushirochika…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Suzushirochika/status/2100779991479009435",
+              "start": 71,
+              "url": "https://t.co/mAtJuTvpLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101026167864381646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100779991479009435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忍不住想纠正，不是“掐住动脉让血液无法流通”，是挤压刺激颈动脉窦迷走神经让心跳/血液流速减缓从而感到眩晕……要真有那力气把动脉掐堵早就4翘翘 https://t.co/mAtJuTvpLO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T07:04:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "＝澪/mio｜魔女｜精神问题｜社交障碍｜犯病之外都是在发日常｜自言自语系｜提问箱https://t.co/QGZu8j0HyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mio0o0o0",
+                "end": 63,
+                "expanded_url": "https://ngl.link/mio0o0o0",
+                "start": 40,
+                "url": "https://t.co/QGZu8j0HyB"
+              }
+            ]
+          }
+        },
+        "id": "2042136415295750144",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101027214368362628",
+        "name": "夕暮れの鳥",
+        "pinned_tweet_id": "2081990341046264234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042136415295750144/1775718515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 113,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "mi0myl0ve",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
